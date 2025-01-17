@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Turan",
+      "place": "Xankəndi",
+      "phone": "+9943333333"
+    },
+    {
+      "id": "2",
+      "name": "Xatun",
+      "place": "Xankəndi",
+      "phone": "+9943333333"
+    },
+    {
+      "id": "3",
+      "name": "Ərbəy",
+      "place": "Xankəndi",
+      "phone": "+9943333333"
+    }
+  ]
+}
